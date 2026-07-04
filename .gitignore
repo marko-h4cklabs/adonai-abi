@@ -1,0 +1,13 @@
+# Raw, unsorted source assets (huge originals) — never commit
+_incoming/
+
+# Video is hosted on YouTube, never in the repo (GitHub 100 MB/file limit)
+*.mp4
+*.mov
+*.mkv
+*.avi
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*~
